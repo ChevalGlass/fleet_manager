@@ -1,0 +1,40 @@
+@font-face {
+	font-family: ELIXIA;
+	src: url(ELIXIA_Logo_font.ttf);
+}
+
+body {
+	background-color: #DDDDDD;
+	margin: auto;
+	width: 80%;
+	font-family: Tahoma;
+}
+
+h1 {
+	font-family: ELIXIA;
+	font-size: 3em;
+}
+
+table {
+	/*border-collapse: collapse;*/
+	/*border: 1px solid black;*/
+}
+
+th, td {
+	padding: 7px;
+/*	padding-top: 7px;
+	padding-bottom: 7px;*/
+	text-align: left;
+	border-bottom: 1px solid #ddd;
+}
+
+tr:nth-child(even) {
+	background-color: #33658A40;
+}
+
+tr::hover {
+	background-color: #33658A;
+	color: #EFEFEF;
+}
+
+

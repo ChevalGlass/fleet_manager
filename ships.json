@@ -1,0 +1,1378 @@
+[
+  {
+    "id": "1",
+    "name": "Ranger CV",
+    "type": "ship",
+    "classification": "Touring",
+    "manufacturer": "Tumbril",
+    "starship42id": "ranger cv"
+  },
+  {
+    "id": "2",
+    "name": "Ranger RC",
+    "starship42id": "ranger rc",
+    "type": "ship",
+    "classification": "Racing",
+    "manufacturer": "Tumbril"
+  },
+  {
+    "id": "3",
+    "name": "Ranger TR",
+    "starship42id": "ranger tr",
+    "type": "ship",
+    "classification": "",
+    "manufacturer": "Tumbril"
+  },
+  {
+    "id": "4",
+    "name": "Greycat ROC",
+    "starship42id": "greycat industrial - roc",
+    "type": "ship",
+    "classification": "Mining",
+    "manufacturer": "Greycat Industrial"
+  },
+  {
+    "id": "5",
+    "name": "Nox",
+    "starship42id": "nox",
+    "type": "ship",
+    "classification": "Racing",
+    "manufacturer": "Aopoa"
+  },
+  {
+    "id": "6",
+    "name": "Nox Kue",
+    "starship42id": "nox kue",
+    "type": "ship",
+    "classification": "Racing",
+    "manufacturer": "Aopoa"
+  },
+  {
+    "id": "7",
+    "name": "X1",
+    "starship42id": "x1",
+    "type": "ship",
+    "classification": "Touring",
+    "manufacturer": "Origin"
+  },
+  {
+    "id": "8",
+    "name": "X1 Force",
+    "starship42id": "x1 - force",
+    "type": "ship",
+    "classification": "Pathfinder",
+    "manufacturer": "Origin"
+  },
+  {
+    "id": "9",
+    "name": "X1 - Velocity",
+    "type": "ship",
+    "classification": "Racing",
+    "manufacturer": "Origin",
+    "starship42id": "x1 - velocity"
+  },
+  {
+    "id": "10",
+    "name": "Cyclone",
+    "type": "ship",
+    "classification": "Exploration / Recon",
+    "manufacturer": "Tumbril",
+    "starship42id": "cyclone"
+  },
+  {
+    "id": "11",
+    "name": "Cyclone AA",
+    "type": "ship",
+    "classification": "",
+    "manufacturer": "Tumbril",
+    "starship42id": "cyclone aa"
+  },
+  {
+    "id": "12",
+    "name": "Cyclone RC",
+    "type": "ship",
+    "classification": "",
+    "manufacturer": "Tumbril",
+    "starship42id": "cyclone rc"
+  },
+  {
+    "id": "13",
+    "name": "Cyclone RN",
+    "type": "ship",
+    "classification": "",
+    "manufacturer": "Tumbril",
+    "starship42id": "cyclone rn"
+  },
+  {
+    "id": "14",
+    "name": "Cyclone TR",
+    "type": "ship",
+    "classification": "",
+    "manufacturer": "Tumbril",
+    "starship42id": "cyclone-tr"
+  },
+  {
+    "id": "15",
+    "name": "Dragonfly Black",
+    "type": "ship",
+    "classification": "Racing",
+    "manufacturer": "Drake Interplanetary",
+    "starship42id": "dragonfly black"
+  },
+  {
+    "id": "16",
+    "name": "Dragonfly Star Kitten Edition",
+    "type": "ship",
+    "classification": "",
+    "manufacturer": "Drake Interplanetary",
+    "starship42id": "dragonfly star kitten edition"
+  },
+  {
+    "id": "17",
+    "name": "Dragonfly Yellowjacket",
+    "type": "ship",
+    "classification": "Racing",
+    "manufacturer": "Drake Interplanetary",
+    "starship42id": "dragonfly yellowjacket"
+  },
+  {
+    "id": "18",
+    "name": "G12",
+    "type": "ship",
+    "classification": "",
+    "manufacturer": "Origin",
+    "starship42id": "g12"
+  },
+  {
+    "id": "19",
+    "name": "G12a",
+    "type": "ship",
+    "classification": "",
+    "manufacturer": "Origin",
+    "starship42id": "g12a"
+  },
+  {
+    "id": "20",
+    "name": "G12r",
+    "type": "ship",
+    "classification": "",
+    "manufacturer": "Origin",
+    "starship42id": "g12r"
+  },
+  {
+    "id": "21",
+    "name": "Ursa Rover",
+    "type": "ship",
+    "classification": "Exploration",
+    "manufacturer": "Roberts Space Industries",
+    "starship42id": "ursa rover"
+  },
+  {
+    "id": "22",
+    "name": "Ursa Rover Fortuna",
+    "type": "ship",
+    "classification": "Exploration",
+    "manufacturer": "Roberts Space Industries",
+    "starship42id": "ursa rover fortuna"
+  },
+  {
+    "id": "23",
+    "name": "Mpuv Cargo",
+    "type": "ship",
+    "classification": "Light Freight",
+    "manufacturer": "ARGO Astronautics",
+    "starship42id": "mpuv cargo"
+  },
+  {
+    "id": "24",
+    "name": "Mpuv Personnel",
+    "type": "ship",
+    "classification": "Passenger",
+    "manufacturer": "ARGO Astronautics",
+    "starship42id": "mpuv personnel"
+  },
+  {
+    "id": "25",
+    "name": "M50",
+    "type": "ship",
+    "classification": "Racing",
+    "manufacturer": "Origin",
+    "starship42id": "m50"
+  },
+  {
+    "id": "26",
+    "name": "Razor",
+    "type": "ship",
+    "classification": "Racing",
+    "manufacturer": "Musashi Industrial & Starflight Concern",
+    "starship42id": "razor"
+  },
+  {
+    "id": "27",
+    "name": "Razor Ex",
+    "type": "ship",
+    "classification": "Stealth",
+    "manufacturer": "Musashi Industrial & Starflight Concern",
+    "starship42id": "razor ex"
+  },
+  {
+    "id": "28",
+    "name": "Razor Lx",
+    "type": "ship",
+    "classification": "Luxury",
+    "manufacturer": "Musashi Industrial & Starflight Concern",
+    "starship42id": "razor lx"
+  },
+  {
+    "id": "29",
+    "name": "P-52 Merlin",
+    "type": "ship",
+    "classification": "",
+    "manufacturer": "Kruger Intergalactic",
+    "starship42id": "p-52 merlin"
+  },
+  {
+    "id": "30",
+    "name": "P-72 Archimedes",
+    "type": "ship",
+    "classification": "",
+    "manufacturer": "Kruger Intergalactic",
+    "starship42id": "p-72 archimedes"
+  },
+  {
+    "id": "31",
+    "name": "P-72 Archimedes Emerald",
+    "type": "ship",
+    "classification": "",
+    "manufacturer": "Kruger Intergalactic",
+    "starship42id": "p-72 archimedes emerald"
+  },
+  {
+    "id": "32",
+    "name": "85x",
+    "type": "ship",
+    "classification": "Touring",
+    "manufacturer": "Origin",
+    "starship42id": "85x"
+  },
+  {
+    "id": "33",
+    "name": "C8 Pisces",
+    "type": "ship",
+    "classification": "Exploration",
+    "manufacturer": "Anvil Aerospace",
+    "starship42id": "c8 pisces"
+  },
+  {
+    "id": "34",
+    "name": "Pisces - Expedition",
+    "type": "ship",
+    "classification": "Exploration",
+    "manufacturer": "Anvil Aerospace",
+    "starship42id": "pisces - expedition"
+  },
+  {
+    "id": "35",
+    "name": "Reliant Kore",
+    "type": "ship",
+    "classification": "Starter / Light Freight",
+    "manufacturer": "Musashi Industrial & Starflight Concern",
+    "starship42id": "reliant kore - mini hauler"
+  },
+  {
+    "id": "36",
+    "name": "Reliant Mako",
+    "type": "ship",
+    "classification": "Reporting",
+    "manufacturer": "Musashi Industrial & Starflight Concern",
+    "starship42id": "reliant mako - news van"
+  },
+  {
+    "id": "37",
+    "name": "Reliant Sen",
+    "type": "ship",
+    "classification": "Light Science",
+    "manufacturer": "Musashi Industrial & Starflight Concern",
+    "starship42id": "reliant sen - researcher"
+  },
+  {
+    "id": "38",
+    "name": "Reliant Tana",
+    "type": "ship",
+    "classification": "Light Fighter",
+    "manufacturer": "Musashi Industrial & Starflight Concern",
+    "starship42id": "reliant tana - skirmisher"
+  },
+  {
+    "id": "39",
+    "name": "100i",
+    "type": "ship",
+    "classification": "Starter / Touring",
+    "manufacturer": "Origin",
+    "starship42id": "100i"
+  },
+  {
+    "id": "40",
+    "name": "125a",
+    "type": "ship",
+    "classification": "Starter / Light Fighter",
+    "manufacturer": "Origin",
+    "starship42id": "125a"
+  },
+  {
+    "id": "41",
+    "name": "135c",
+    "type": "ship",
+    "classification": "Starter / Light Freight",
+    "manufacturer": "Origin",
+    "starship42id": "135c"
+  },
+  {
+    "id": "42",
+    "name": "Buccaneer",
+    "type": "ship",
+    "classification": "Interdiction",
+    "manufacturer": "Drake Interplanetary",
+    "starship42id": "buccaneer"
+  },
+  {
+    "id": "43",
+    "name": "Arrow",
+    "type": "ship",
+    "classification": "Light Fighter",
+    "manufacturer": "Anvil Aerospace",
+    "starship42id": "arrow"
+  },
+  {
+    "id": "44",
+    "name": "Nova",
+    "type": "ship",
+    "classification": "Combat",
+    "manufacturer": "Tumbril",
+    "starship42id": "nova tank"
+  },
+  {
+    "id": "45",
+    "name": "Blade",
+    "type": "ship",
+    "classification": "",
+    "manufacturer": "Esperia",
+    "starship42id": "blade"
+  },
+  {
+    "id": "46",
+    "name": "Ballista",
+    "type": "ship",
+    "classification": "Military",
+    "manufacturer": "Anvil Aerospace",
+    "starship42id": "ballista"
+  },
+  {
+    "id": "47",
+    "name": "Ballista Dunestalker",
+    "type": "ship",
+    "classification": "Military",
+    "manufacturer": "Anvil Aerospace",
+    "starship42id": "ballista dunestalker"
+  },
+  {
+    "id": "48",
+    "name": "Ballista Snowblind",
+    "type": "ship",
+    "classification": "Military",
+    "manufacturer": "Anvil Aerospace",
+    "starship42id": "ballista snowblind"
+  },
+  {
+    "id": "49",
+    "name": "Hawk",
+    "type": "ship",
+    "classification": "Light Fighter",
+    "manufacturer": "Anvil Aerospace",
+    "starship42id": "hawk"
+  },
+  {
+    "id": "50",
+    "name": "Aurora CL",
+    "type": "ship",
+    "classification": "Light Freight",
+    "manufacturer": "Roberts Space Industries",
+    "starship42id": "aurora cl"
+  },
+  {
+    "id": "51",
+    "name": "Aurora ES",
+    "type": "ship",
+    "classification": "Starter / Pathfinder",
+    "manufacturer": "Roberts Space Industries",
+    "starship42id": "aurora es"
+  },
+  {
+    "id": "52",
+    "name": "Aurora LN",
+    "type": "ship",
+    "classification": "Light Fighter",
+    "manufacturer": "Roberts Space Industries",
+    "starship42id": "aurora ln"
+  },
+  {
+    "id": "53",
+    "name": "Aurora LX",
+    "type": "ship",
+    "classification": "Pathfinder",
+    "manufacturer": "Roberts Space Industries",
+    "starship42id": "aurora lx"
+  },
+  {
+    "id": "54",
+    "name": "Aurora MR",
+    "type": "ship",
+    "classification": "Light Fighter",
+    "manufacturer": "Roberts Space Industries",
+    "starship42id": "aurora mr"
+  },
+  {
+    "id": "55",
+    "name": "Terrapin",
+    "type": "ship",
+    "classification": "Pathfinder",
+    "manufacturer": "Anvil Aerospace",
+    "starship42id": "terrapin"
+  },
+  {
+    "id": "56",
+    "name": "Gladius",
+    "type": "ship",
+    "classification": "Light Fighter",
+    "manufacturer": "Aegis Dynamics",
+    "starship42id": "gladius"
+  },
+  {
+    "id": "57",
+    "name": "Gladius Valiant",
+    "type": "ship",
+    "classification": "Light Fighter",
+    "manufacturer": "Aegis Dynamics",
+    "starship42id": "gladius valiant"
+  },
+  {
+    "id": "58",
+    "name": "Pirate Gladius",
+    "type": "ship",
+    "classification": "Light Fighter",
+    "manufacturer": "Aegis Dynamics",
+    "starship42id": "pirate gladius"
+  },
+  {
+    "id": "59",
+    "name": "Talon",
+    "type": "ship",
+    "classification": "",
+    "manufacturer": "Esperia",
+    "starship42id": "talon"
+  },
+  {
+    "id": "60",
+    "name": "Talon Shrike",
+    "type": "ship",
+    "classification": "",
+    "manufacturer": "Esperia",
+    "starship42id": "talon shrike"
+  },
+  {
+    "id": "61",
+    "name": "Eclipse",
+    "type": "ship",
+    "classification": "Stealth Bomber",
+    "manufacturer": "Aegis Dynamics",
+    "starship42id": "eclipse"
+  },
+  {
+    "id": "62",
+    "name": "Mustang Alpha",
+    "type": "ship",
+    "classification": "Cargo",
+    "manufacturer": "Consolidated Outland",
+    "starship42id": "mustang alpha"
+  },
+  {
+    "id": "63",
+    "name": "Mustang Alpha Vindicator",
+    "type": "ship",
+    "classification": "Starter / Light Freight",
+    "manufacturer": "Consolidated Outland",
+    "starship42id": "mustang alpha vindicator"
+  },
+  {
+    "id": "64",
+    "name": "Mustang Beta",
+    "type": "ship",
+    "classification": "Pathfinder",
+    "manufacturer": "Consolidated Outland",
+    "starship42id": "mustang beta"
+  },
+  {
+    "id": "65",
+    "name": "Mustang Delta",
+    "type": "ship",
+    "classification": "Light Fighter",
+    "manufacturer": "Consolidated Outland",
+    "starship42id": "mustang delta"
+  },
+  {
+    "id": "66",
+    "name": "Mustang Gamma",
+    "type": "ship",
+    "classification": "Racing",
+    "manufacturer": "Consolidated Outland",
+    "starship42id": "mustang gamma"
+  },
+  {
+    "id": "67",
+    "name": "Mustang Omega : Amd Edition",
+    "type": "ship",
+    "classification": "Racing",
+    "manufacturer": "Consolidated Outland",
+    "starship42id": "mustang omega : amd edition"
+  },
+  {
+    "id": "68",
+    "name": "Hull A",
+    "type": "ship",
+    "classification": "Medium Freight",
+    "manufacturer": "Musashi Industrial & Starflight Concern",
+    "starship42id": "hull a"
+  },
+  {
+    "id": "69",
+    "name": "Hurricane",
+    "type": "ship",
+    "classification": "Heavy Fighter",
+    "manufacturer": "Anvil Aerospace",
+    "starship42id": "hurricane"
+  },
+  {
+    "id": "70",
+    "name": "Avenger Stalker",
+    "type": "ship",
+    "classification": "Interdiction",
+    "manufacturer": "Aegis Dynamics",
+    "starship42id": "avenger stalker"
+  },
+  {
+    "id": "71",
+    "name": "Avenger Titan",
+    "type": "ship",
+    "classification": "Light Freight",
+    "manufacturer": "Aegis Dynamics",
+    "starship42id": "avenger titan"
+  },
+  {
+    "id": "72",
+    "name": "Avenger Titan Renegade",
+    "type": "ship",
+    "classification": "Light Freight",
+    "manufacturer": "Aegis Dynamics",
+    "starship42id": "avenger titan renegade"
+  },
+  {
+    "id": "73",
+    "name": "Avenger Warlock",
+    "type": "ship",
+    "classification": "Interdiction",
+    "manufacturer": "Aegis Dynamics",
+    "starship42id": "avenger warlock"
+  },
+  {
+    "id": "74",
+    "name": "F7A Military Hornet",
+    "type": "ship",
+    "classification": "Medium Fighter",
+    "manufacturer": "Anvil Aerospace",
+    "starship42id": "f7a military hornet"
+  },
+  {
+    "id": "75",
+    "name": "F7C Hornet",
+    "type": "ship",
+    "classification": "Medium Fighter",
+    "manufacturer": "Anvil Aerospace",
+    "starship42id": "f7c hornet"
+  },
+  {
+    "id": "76",
+    "name": "F7c Hornet Wildfire",
+    "type": "ship",
+    "classification": "Medium Fighter",
+    "manufacturer": "Anvil Aerospace",
+    "starship42id": "f7c hornet wildfire"
+  },
+  {
+    "id": "77",
+    "name": "F7c-r Hornet Tracker",
+    "type": "ship",
+    "classification": "Pathfinder",
+    "manufacturer": "Anvil Aerospace",
+    "starship42id": "f7c-r hornet tracker"
+  },
+  {
+    "id": "78",
+    "name": "F7c-s Hornet Ghost",
+    "type": "ship",
+    "classification": "Stealth Fighter",
+    "manufacturer": "Anvil Aerospace",
+    "starship42id": "f7c-s hornet ghost"
+  },
+  {
+    "id": "79",
+    "name": "Gladiator",
+    "type": "ship",
+    "classification": "Bomber",
+    "manufacturer": "Anvil Aerospace",
+    "starship42id": "gladiator"
+  },
+  {
+    "id": "80",
+    "name": "Herald",
+    "type": "ship",
+    "classification": "Medium Data",
+    "manufacturer": "Drake Interplanetary",
+    "starship42id": "herald"
+  },
+  {
+    "id": "81",
+    "name": "Prospector",
+    "type": "ship",
+    "classification": "Prospecting & Mining",
+    "manufacturer": "Musashi Industrial & Starflight Concern",
+    "starship42id": "prospector"
+  },
+  {
+    "id": "82",
+    "name": "Sabre",
+    "type": "ship",
+    "classification": "Stealth Fighter",
+    "manufacturer": "Aegis Dynamics",
+    "starship42id": "sabre"
+  },
+  {
+    "id": "83",
+    "name": "Sabre Comet",
+    "type": "ship",
+    "classification": "Stealth Fighter",
+    "manufacturer": "Aegis Dynamics",
+    "starship42id": "sabre comet"
+  },
+  {
+    "id": "84",
+    "name": "Sabre Raven",
+    "type": "ship",
+    "classification": "Interdiction",
+    "manufacturer": "Aegis Dynamics",
+    "starship42id": "sabre raven"
+  },
+  {
+    "id": "85",
+    "name": "San'tok.yai",
+    "type": "ship",
+    "classification": "Medium Fighter",
+    "manufacturer": "Aopoa",
+    "starship42id": "san'tok.yai"
+  },
+  {
+    "id": "86",
+    "name": "Defender",
+    "type": "ship",
+    "classification": "Light Fighter",
+    "manufacturer": "Banu",
+    "starship42id": "defender"
+  },
+  {
+    "id": "87",
+    "name": "F7c-m Super Hornet",
+    "type": "ship",
+    "classification": "",
+    "manufacturer": "",
+    "starship42id": "f7c-m super hornet"
+  },
+  {
+    "id": "88",
+    "name": "F7c-m Super Hornet Heartseeker",
+    "type": "ship",
+    "classification": "",
+    "manufacturer": "",
+    "starship42id": "f7c-m super hornet heartseeker"
+  },
+  {
+    "id": "89",
+    "name": "F8c Lightning Civilian",
+    "type": "ship",
+    "classification": "",
+    "manufacturer": "",
+    "starship42id": "f8c lightning civilian"
+  },
+  {
+    "id": "90",
+    "name": "F8c Lightning Executive Edition",
+    "type": "ship",
+    "classification": "",
+    "manufacturer": "",
+    "starship42id": "f8c lightning executive edition"
+  },
+  {
+    "id": "91",
+    "name": "300i",
+    "type": "ship",
+    "classification": "Touring",
+    "manufacturer": "Origin",
+    "starship42id": "300i"
+  },
+  {
+    "id": "92",
+    "name": "315p ",
+    "type": "ship",
+    "classification": "Pathfinder",
+    "manufacturer": "Origin",
+    "starship42id": "315p explorer"
+  },
+  {
+    "id": "93",
+    "name": "325a",
+    "type": "ship",
+    "classification": "Interdiction",
+    "manufacturer": "Origin",
+    "starship42id": "325a fighter"
+  },
+  {
+    "id": "94",
+    "name": "350r",
+    "type": "ship",
+    "classification": "Racing",
+    "manufacturer": "Origin",
+    "starship42id": "350r racer"
+  },
+  {
+    "id": "95",
+    "name": "Crusader Ares Inferno",
+    "type": "ship",
+    "classification": "Heavy Combat Fighter",
+    "manufacturer": "Crusader Industries",
+    "starship42id": "crusader ares inferno"
+  },
+  {
+    "id": "96",
+    "name": "Crusader Ares Ion",
+    "type": "ship",
+    "classification": "Heavy Combat Fighter",
+    "manufacturer": "Crusader Industries",
+    "starship42id": "crusader ares ion"
+  },
+  {
+    "id": "97",
+    "name": "SRV",
+    "type": "ship",
+    "classification": "Industrial / Civilian",
+    "manufacturer": "ARGO Astronautics",
+    "starship42id": "srv"
+  },
+  {
+    "id": "98",
+    "name": "Mantis",
+    "type": "ship",
+    "classification": "Military / Stealth",
+    "manufacturer": "Roberts Space Industries",
+    "starship42id": "mantis"
+  },
+  {
+    "id": "99",
+    "name": "Khartu-al",
+    "type": "ship",
+    "classification": "Light Fighter",
+    "manufacturer": "Aopoa",
+    "starship42id": "khartu-al"
+  },
+  {
+    "id": "100",
+    "name": "Glaive",
+    "type": "ship",
+    "classification": "Medium Fighter",
+    "manufacturer": "Esperia",
+    "starship42id": "glaive"
+  },
+  {
+    "id": "101",
+    "name": "Scythe",
+    "type": "ship",
+    "classification": "Medium Fighter",
+    "manufacturer": "Vanduul",
+    "starship42id": "scythe"
+  },
+  {
+    "id": "102",
+    "name": "Vulture",
+    "type": "ship",
+    "classification": "Light Salvage",
+    "manufacturer": "Drake Interplanetary",
+    "starship42id": "vulture"
+  },
+  {
+    "id": "103",
+    "name": "Prowler",
+    "type": "ship",
+    "classification": "Dropship",
+    "manufacturer": "Esperia",
+    "starship42id": "prowler"
+  },
+  {
+    "id": "104",
+    "name": "Cutlass Black",
+    "type": "ship",
+    "classification": "Medium Fighter / Medium Freight",
+    "manufacturer": "Drake Interplanetary",
+    "starship42id": "cutlass black"
+  },
+  {
+    "id": "105",
+    "name": "Cutlass Black Best In Show Edition",
+    "type": "ship",
+    "classification": "Medium Fighter / Medium Freight",
+    "manufacturer": "Drake Interplanetary",
+    "starship42id": "cutlass 2949 best in show"
+  },
+  {
+    "id": "106",
+    "name": "Cutlass Blue",
+    "type": "ship",
+    "classification": "Interdiction",
+    "manufacturer": "Drake Interplanetary",
+    "starship42id": "cutlass blue"
+  },
+  {
+    "id": "107",
+    "name": "Cutlass Red",
+    "type": "ship",
+    "classification": "Medical",
+    "manufacturer": "Drake Interplanetary",
+    "starship42id": "cutlass red"
+  },
+  {
+    "id": "108",
+    "name": "Redeemer",
+    "type": "ship",
+    "classification": "Gun Ship",
+    "manufacturer": "Aegis Dynamics",
+    "starship42id": "redeemer"
+  },
+  {
+    "id": "109",
+    "name": "Freelancer",
+    "type": "ship",
+    "classification": "Medium Freight",
+    "manufacturer": "Musashi Industrial & Starflight Concern",
+    "starship42id": "freelancer"
+  },
+  {
+    "id": "110",
+    "name": "Freelancer DUR",
+    "type": "ship",
+    "classification": "Expedition",
+    "manufacturer": "Musashi Industrial & Starflight Concern",
+    "starship42id": "freelancer dur"
+  },
+  {
+    "id": "111",
+    "name": "Freelancer MAX",
+    "type": "ship",
+    "classification": "Medium Freight",
+    "manufacturer": "Musashi Industrial & Starflight Concern",
+    "starship42id": "freelancer max"
+  },
+  {
+    "id": "112",
+    "name": "Freelancer MIS",
+    "type": "ship",
+    "classification": "Gun Ship",
+    "manufacturer": "Musashi Industrial & Starflight Concern",
+    "starship42id": "freelancer mis"
+  },
+  {
+    "id": "113",
+    "name": "Vanguard Harbinger",
+    "type": "ship",
+    "classification": "Bomber",
+    "manufacturer": "Aegis Dynamics",
+    "starship42id": "vanguard harbinger"
+  },
+  {
+    "id": "114",
+    "name": "Vanguard Hoplite",
+    "type": "ship",
+    "classification": "Dropship",
+    "manufacturer": "Aegis Dynamics",
+    "starship42id": "vanguard hoplite"
+  },
+  {
+    "id": "115",
+    "name": "Vanguard Sentinel",
+    "type": "ship",
+    "classification": "Interdiction",
+    "manufacturer": "Aegis Dynamics",
+    "starship42id": "vanguard sentinel"
+  },
+  {
+    "id": "116",
+    "name": "Vanguard Warden",
+    "type": "ship",
+    "classification": "Heavy Fighter",
+    "manufacturer": "Aegis Dynamics",
+    "starship42id": "vanguard warden"
+  },
+  {
+    "id": "117",
+    "name": "Vulcan",
+    "type": "ship",
+    "classification": "Medium Repair / Medium Refuel",
+    "manufacturer": "Aegis Dynamics",
+    "starship42id": "vulcan"
+  },
+  {
+    "id": "118",
+    "name": "Mercury Star Runner",
+    "starship42id": "Crusader Mercury Star Runner",
+    "type": "ship",
+    "classification": "Medium Cargo / Medium Data",
+    "manufacturer": "Crusader Industries"
+  },
+  {
+    "id": "119",
+    "name": "Apollo Medivac",
+    "type": "ship",
+    "classification": "Support / Medical",
+    "manufacturer": "Roberts Space Industries",
+    "starship42id": "apollo medivac"
+  },
+  {
+    "id": "120",
+    "name": "Apollo Triage",
+    "type": "ship",
+    "classification": "Support / Medical",
+    "manufacturer": "Roberts Space Industries",
+    "starship42id": "apollo triage"
+  },
+  {
+    "id": "121",
+    "name": "Argo Mole",
+    "type": "ship",
+    "classification": "Prospecting & Mining",
+    "manufacturer": "ARGO Astronautics",
+    "starship42id": "argo mole"
+  },
+  {
+    "id": "122",
+    "name": "Argo Mole - Carbon Edition",
+    "type": "ship",
+    "classification": "Prospecting & Mining",
+    "manufacturer": "ARGO Astronautics",
+    "starship42id": "argo mole - carbon edition"
+  },
+  {
+    "id": "123",
+    "name": "Argo Mole - Talus Edition",
+    "type": "ship",
+    "classification": "Prospecting & Mining",
+    "manufacturer": "ARGO Astronautics",
+    "starship42id": "argo mole - talus edition"
+  },
+  {
+    "id": "124",
+    "name": "Valkyrie",
+    "type": "ship",
+    "classification": "Military / Industrial",
+    "manufacturer": "Anvil Aerospace",
+    "starship42id": "valkyrie"
+  },
+  {
+    "id": "125",
+    "name": "Valkyrie Liberator Edition",
+    "type": "ship",
+    "classification": "Military / Industrial",
+    "manufacturer": "Anvil Aerospace",
+    "starship42id": "valkyrie liberator edition"
+  },
+  {
+    "id": "126",
+    "name": "Hull B",
+    "type": "ship",
+    "classification": "Heavy Freight",
+    "manufacturer": "Musashi Industrial & Starflight Concern",
+    "starship42id": "hull b"
+  },
+  {
+    "id": "127",
+    "name": "Corsair",
+    "type": "ship",
+    "classification": "Exploration",
+    "manufacturer": "Drake Interplanetary",
+    "starship42id": "corsair"
+  },
+  {
+    "id": "128",
+    "name": "Constellation Andromeda",
+    "type": "ship",
+    "classification": "Medium Freight / Gun Ship",
+    "manufacturer": "Roberts Space Industries",
+    "starship42id": "constellation andromeda"
+  },
+  {
+    "id": "129",
+    "name": "Constellation Aquila",
+    "type": "ship",
+    "classification": "Expedition",
+    "manufacturer": "Roberts Space Industries",
+    "starship42id": "constellation aquila"
+  },
+  {
+    "id": "130",
+    "name": "Constellation Phoenix",
+    "type": "ship",
+    "classification": "Touring",
+    "manufacturer": "Roberts Space Industries",
+    "starship42id": "constellation phoenix"
+  },
+  {
+    "id": "131",
+    "name": "Constellation Phoenix Emerald",
+    "type": "ship",
+    "classification": "Touring",
+    "manufacturer": "Roberts Space Industries",
+    "starship42id": "constellation phoenix emerald"
+  },
+  {
+    "id": "132",
+    "name": "Constellation Taurus",
+    "type": "ship",
+    "classification": "Medium Freight",
+    "manufacturer": "Roberts Space Industries",
+    "starship42id": "constellation taurus"
+  },
+  {
+    "id": "133",
+    "name": "Retaliator",
+    "type": "ship",
+    "classification": "Heavy Bomber",
+    "manufacturer": "Aegis Dynamics",
+    "starship42id": "retaliator base"
+  },
+  {
+    "id": "134",
+    "name": "Retaliator Bomber",
+    "type": "ship",
+    "classification": "Heavy Bomber",
+    "manufacturer": "Aegis Dynamics",
+    "starship42id": "retaliator bomber"
+  },
+  {
+    "id": "135",
+    "name": "Genesis Starliner",
+    "type": "ship",
+    "classification": "Passenger",
+    "manufacturer": "Crusader Industries",
+    "starship42id": "genesis starliner"
+  },
+  {
+    "id": "136",
+    "name": "Crucible",
+    "type": "ship",
+    "classification": "Heavy Repair",
+    "manufacturer": "Anvil Aerospace",
+    "starship42id": "crucible"
+  },
+  {
+    "id": "137",
+    "name": "600i Executive Edition",
+    "type": "ship",
+    "classification": "",
+    "manufacturer": "",
+    "starship42id": "600i executive edition"
+  },
+  {
+    "id": "138",
+    "name": "600i Explorer",
+    "type": "ship",
+    "classification": "Expedition",
+    "manufacturer": "Origin",
+    "starship42id": "600i exploration module"
+  },
+  {
+    "id": "139",
+    "name": "600i Touring",
+    "type": "ship",
+    "classification": "Touring",
+    "manufacturer": "Origin",
+    "starship42id": "600i touring module"
+  },
+  {
+    "id": "140",
+    "name": "A2 Hercules",
+    "starship42id": "Hercules Starlifter A2",
+    "type": "ship",
+    "classification": "Transport / Gun Ship",
+    "manufacturer": "Crusader Industries"
+  },
+  {
+    "id": "141",
+    "name": "C2 Hercules",
+    "starship42id": "Hercules Starlifter C2",
+    "type": "ship",
+    "classification": "Transport",
+    "manufacturer": "Crusader Industries"
+  },
+  {
+    "id": "142",
+    "name": "M2 Hercules",
+    "starship42id": "Hercules Starlifter M2",
+    "type": "ship",
+    "classification": "Transport Military",
+    "manufacturer": "Crusader Industries"
+  },
+  {
+    "id": "143",
+    "name": "Starfarer",
+    "type": "ship",
+    "classification": "Heavey Refueling",
+    "manufacturer": "Musashi Industrial & Starflight Concern",
+    "starship42id": "starfarer"
+  },
+  {
+    "id": "144",
+    "name": "Starfarer Gemini",
+    "type": "ship",
+    "classification": "Heavey Refueling",
+    "manufacturer": "Musashi Industrial & Starflight Concern",
+    "starship42id": "starfarer gemini"
+  },
+  {
+    "id": "145",
+    "name": "Caterpillar",
+    "type": "ship",
+    "classification": "Transport",
+    "manufacturer": "Drake Interplanetary",
+    "starship42id": "caterpillar"
+  },
+  {
+    "id": "146",
+    "name": "Caterpillar Best In Show Edition",
+    "type": "ship",
+    "classification": "Transport",
+    "manufacturer": "Drake Interplanetary",
+    "starship42id": "caterpillar 2949 best in show"
+  },
+  {
+    "id": "147",
+    "name": "Caterpillar Pirate Edition",
+    "type": "ship",
+    "classification": "Transport",
+    "manufacturer": "Drake Interplanetary",
+    "starship42id": "caterpillar pirate edition"
+  },
+  {
+    "id": "148",
+    "name": "Hammerhead",
+    "type": "ship",
+    "classification": "Heavy Gun Ship",
+    "manufacturer": "Aegis Dynamics",
+    "starship42id": "hammerhead"
+  },
+  {
+    "id": "149",
+    "name": "Hammerhead Best In Show Edition",
+    "type": "ship",
+    "classification": "Heavy Gun Ship",
+    "manufacturer": "Aegis Dynamics",
+    "starship42id": "hammerhead 2949 best in show"
+  },
+  {
+    "id": "150",
+    "name": "Hull C",
+    "type": "ship",
+    "classification": "Heavy Freight",
+    "manufacturer": "Musashi Industrial & Starflight Concern",
+    "starship42id": "hull c"
+  },
+  {
+    "id": "151",
+    "name": "Nautilus",
+    "type": "ship",
+    "classification": "Minelayer",
+    "manufacturer": "Aegis Dynamics",
+    "starship42id": "nautilus"
+  },
+  {
+    "id": "152",
+    "name": "Nautilus Solstice Edition",
+    "type": "ship",
+    "classification": "Minelayer",
+    "manufacturer": "Aegis Dynamics",
+    "starship42id": "nautilus solstice edition"
+  },
+  {
+    "id": "153",
+    "name": "Carrack",
+    "type": "ship",
+    "classification": "Expedition",
+    "manufacturer": "Anvil Aerospace",
+    "starship42id": "carrack"
+  },
+  {
+    "id": "154",
+    "name": "Carrack Expedition",
+    "type": "ship",
+    "classification": "Expedition",
+    "manufacturer": "Anvil Aerospace",
+    "starship42id": "carrack expedition"
+  },
+  {
+    "id": "155",
+    "name": "Carrack Expedition With Pisces Expedition",
+    "type": "ship",
+    "classification": "Expedition",
+    "manufacturer": "Anvil Aerospace",
+    "starship42id": "carrack expedition with pisces expedition"
+  },
+  {
+    "id": "156",
+    "name": "Carrack With Pisces Expedition",
+    "type": "ship",
+    "classification": "Expedition",
+    "manufacturer": "Anvil Aerospace",
+    "starship42id": "carrack with pisces expedition"
+  },
+  {
+    "id": "157",
+    "name": "Polaris",
+    "type": "ship",
+    "classification": "Corvette",
+    "manufacturer": "Roberts Space Industries",
+    "starship42id": "polaris"
+  },
+  {
+    "id": "158",
+    "name": "Reclaimer",
+    "type": "ship",
+    "classification": "Heavy Salvage",
+    "manufacturer": "Aegis Dynamics",
+    "starship42id": "reclaimer"
+  },
+  {
+    "id": "159",
+    "name": "Reclaimer Best In Show Edition",
+    "type": "ship",
+    "classification": "Heavy Salvage",
+    "manufacturer": "Aegis Dynamics",
+    "starship42id": "reclaimer 2949 best in show"
+  },
+  {
+    "id": "160",
+    "name": "Merchantman",
+    "type": "ship",
+    "classification": "Heavy Freight",
+    "manufacturer": "Banu",
+    "starship42id": "merchantman"
+  },
+  {
+    "id": "161",
+    "name": "Consolidated Outland Pioneer",
+    "type": "ship",
+    "classification": "Heavy Construction",
+    "manufacturer": "Consolidated Outland",
+    "starship42id": "consolidated outland pioneer"
+  },
+  {
+    "id": "162",
+    "name": "Endeavor",
+    "type": "ship",
+    "classification": "Heavy Science",
+    "manufacturer": "Musashi Industrial & Starflight Concern",
+    "starship42id": "endeavor"
+  },
+  {
+    "id": "163",
+    "name": "890 Jump",
+    "type": "ship",
+    "classification": "Touring",
+    "manufacturer": "Origin",
+    "starship42id": "890 jump"
+  },
+  {
+    "id": "164",
+    "name": "Hull D",
+    "type": "ship",
+    "classification": "Heavy Freight",
+    "manufacturer": "Musashi Industrial & Starflight Concern",
+    "starship42id": "hull d"
+  },
+  {
+    "id": "165",
+    "name": "Idris-M",
+    "type": "ship",
+    "classification": "Frigate",
+    "manufacturer": "Aegis Dynamics",
+    "starship42id": "idris-m frigate"
+  },
+  {
+    "id": "166",
+    "name": "Idris-P",
+    "type": "ship",
+    "classification": "Frigate",
+    "manufacturer": "Aegis Dynamics",
+    "starship42id": "idris-p frigate"
+  },
+  {
+    "id": "167",
+    "name": "Kraken",
+    "type": "ship",
+    "classification": "Multi-Role / Light Carrier",
+    "manufacturer": "Drake Interplanetary",
+    "starship42id": "kraken"
+  },
+  {
+    "id": "168",
+    "name": "Kraken Privateer",
+    "type": "ship",
+    "classification": "Multi-Role / Light Carrier",
+    "manufacturer": "Drake Interplanetary",
+    "starship42id": "kraken privateer"
+  },
+  {
+    "id": "169",
+    "name": "Orion",
+    "type": "ship",
+    "classification": "Heavy Mining",
+    "manufacturer": "Roberts Space Industries",
+    "starship42id": "orion"
+  },
+  {
+    "id": "170",
+    "name": "Hull E",
+    "type": "ship",
+    "classification": "Heavy Freight",
+    "manufacturer": "Musashi Industrial & Starflight Concern",
+    "starship42id": "hull e"
+  },
+  {
+    "id": "171",
+    "name": "Javelin",
+    "type": "ship",
+    "classification": "Destroyer",
+    "manufacturer": "Aegis Dynamics",
+    "starship42id": "javelin"
+  },
+  {
+    "id": "172",
+    "name": "Buggy",
+    "starship42id": "ptv",
+    "type": "ship",
+    "classification": "",
+    "manufacturer": "Greycat Industrial"
+  }
+]
